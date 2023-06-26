@@ -1,3 +1,4 @@
+![MEM](/Users/admin/Desktop/education/mem.jpg)
 # Инструкция для работы с Git и удалёнными репозиториями
 
 ## Что такое Git?
