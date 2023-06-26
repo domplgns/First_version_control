@@ -1,4 +1,4 @@
-![ MEM ](https://memchik.ru//images/memes/5b05bc54b1c7e352456e13be.jpg)
+![MEM](https://memchik.ru//images/memes/5b05bc54b1c7e352456e13be.jpg)
 # Инструкция для работы с Git и удалёнными репозиториями
 
 ## Что такое Git?
